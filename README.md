@@ -3,21 +3,28 @@
 
 <p align="center">
   <a href="mailto:bpazg97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Bpazg97&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Bpazg97&style=for-the-badge&color=6e40c9"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=20%2B+EKS+clusters+in+production;DevSecOps+toolchain+from+zero+to+enterprise;Zero+critical+CVEs+reached+production;Platform+Engineering+%7C+Cloud-Native+Security" alt="Typing SVG" />
 </p>
 
 ---
 
-4+ years building and securing cloud-native infrastructure at enterprise scale. Currently managing 20+ EKS clusters across international clients (Airbus, Telxius). Built and owned full DevSecOps toolchains from zero — container signing, runtime security, DAST pipelines, policy enforcement. Write internal automation tooling in Go and Python. Strong GitOps practitioner.
+4+ years building and securing cloud-native infrastructure at enterprise scale.
+Designed and owned full DevSecOps toolchains from scratch — container signing, runtime security, DAST pipelines, policy enforcement.
+Currently managing 20+ EKS clusters across international clients including Airbus and Telxius.
+Write internal automation tooling in Go and Python. Strong GitOps practitioner.
 
 ---
 
-## Stack
+## 🛠 Stack
 
 **Cloud & Infra**
 
@@ -54,29 +61,58 @@
 
 ---
 
-## Certifications
+## 🔧 Projects
 
-| Cert | Status |
-|------|--------|
-| AWS Certified Cloud Practitioner | ✅ Active (2023–2026) |
-| Certified Pentester — Deloitte Academy | ✅ |
-| HashiCorp Terraform Associate | 🔄 In progress |
-| CKA — Certified Kubernetes Administrator | 🔄 In progress |
-| AWS Solutions Architect Associate (SAA-C03) | 🔄 In progress |
+Internal tooling built and deployed in production environments:
+
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| [alvatross-gc](https://github.com/Bpazg97/alvatross-gc) | Container registry garbage collector for Harbor & ECR | Go, bubbletea | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| [k8s-image-auditor](https://github.com/Bpazg97/k8s-image-auditor) | Kubernetes image version auditor with Confluence integration | Go, tview | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| [gitlab-var-manager](https://github.com/Bpazg97/gitlab-var-manager) | GitLab CI variables manager with TUI | Go, tview | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| [k8s-ctx-selector](https://github.com/Bpazg97/k8s-ctx-selector) | Interactive Kubernetes context switcher | Go, bubbletea | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
 
 ---
 
-## GitHub Stats
+## 📜 Certifications
+
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Active (2023–2026) |
+| Certified Pentester | Deloitte Academy | ✅ |
+| HashiCorp Terraform Associate | HashiCorp | 🔄 In progress |
+| CKA — Certified Kubernetes Administrator | CNCF | 🔄 In progress |
+| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | 🔄 In progress |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bpazg97&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bpazg97&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bpazg97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bpazg97&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bpazg97&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bpazg97&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## Languages
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bpazg97/Bpazg97/dist/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Languages
 
 - 🇪🇸 Spanish — Native
-- cat Catalan — Native  
+- 🏴󠁥󠁳󠁣󠁴󠁿 Catalan — Native
 - 🇬🇧 English — C2 (Reading/Writing) · [EF SET Certificate](https://cert.efset.org/WxpAdW)
