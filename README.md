@@ -111,6 +111,6 @@ Internal tooling built and deployed in production environments:
 
 ## 🌐 Languages
 
-- 🇪🇸 Spanish — Native
-- 🏴󠁥󠁳󠁣󠁴󠁿 Catalan — Native
-- 🇬🇧 English — C2 (Reading/Writing) · [EF SET Certificate](https://cert.efset.org/WxpAdW)
+- 🇪🇸    Spanish — Native
+- cat   Catalan — Native
+- 🇬🇧    English — C2 (Reading/Writing) · [EF SET Certificate](https://cert.efset.org/WxpAdW)
