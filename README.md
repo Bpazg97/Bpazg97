@@ -103,8 +103,6 @@ Internal tooling built and deployed in production environments:
 
 ---
 
-## 🐍 Contributions
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bpazg97/Bpazg97/dist/github-contribution-grid-snake-dark.svg" />
 </p>
