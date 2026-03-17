@@ -61,19 +61,6 @@ Write internal automation tooling in Go and Python. Strong GitOps practitioner.
 
 ---
 
-## 🔧 Projects
-
-Internal tooling built and deployed in production environments:
-
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| [alvatross-gc](https://github.com/Bpazg97/alvatross-gc) | Container registry garbage collector for Harbor & ECR | Go, bubbletea | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
-| [k8s-image-auditor](https://github.com/Bpazg97/k8s-image-auditor) | Kubernetes image version auditor with Confluence integration | Go, tview | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
-| [gitlab-var-manager](https://github.com/Bpazg97/gitlab-var-manager) | GitLab CI variables manager with TUI | Go, tview | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
-| [k8s-ctx-selector](https://github.com/Bpazg97/k8s-ctx-selector) | Interactive Kubernetes context switcher | Go, bubbletea | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer | Status |
