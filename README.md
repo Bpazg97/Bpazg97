@@ -19,7 +19,6 @@
 
 4+ years building and securing cloud-native infrastructure at enterprise scale.
 Designed and owned full DevSecOps toolchains from scratch — container signing, runtime security, DAST pipelines, policy enforcement.
-Currently managing 20+ EKS clusters across international clients including Airbus and Telxius.
 Write internal automation tooling in Go and Python. Strong GitOps practitioner.
 
 ---
