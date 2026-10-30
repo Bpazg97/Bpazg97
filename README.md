@@ -75,16 +75,12 @@ I write automation tooling in Go and Python and work GitOps-first.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bpazg97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bpazg97&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img src="profile/stats.svg" height="165"/>
+  <img src="profile/top-langs.svg" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Bpazg97&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bpazg97&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
