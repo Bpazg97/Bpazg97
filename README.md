@@ -67,6 +67,7 @@ I write automation tooling in Go and Python and work GitOps-first.
 | AWS Certified Cloud Practitioner | Amazon Web Services |
 | Certified Pentester | Deloitte Academy |
 | HashiCorp Terraform Associate | HashiCorp |
+| AWS Certified CloudOps Engineer – Associate | Amazon Web Services | In progress |
 | CKA — Certified Kubernetes Administrator | CNCF | In progress |
 | AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | In progress |
 
