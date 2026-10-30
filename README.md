@@ -23,7 +23,7 @@ I write automation tooling in Go and Python and work GitOps-first.
 
 ---
 
-## 🛠 Stack
+## Stack
 
 **Cloud & Infra**
 
@@ -60,19 +60,19 @@ I write automation tooling in Go and Python and work GitOps-first.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuer | Status |
 |--------------|--------|--------|
-| AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Active (2023–2026) |
-| Certified Pentester | Deloitte Academy | ✅ |
-| HashiCorp Terraform Associate | HashiCorp | ✅ |
-| CKA — Certified Kubernetes Administrator | CNCF | 🔄 In progress |
-| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | 🔄 In progress |
+| AWS Certified Cloud Practitioner | Amazon Web Services |
+| Certified Pentester | Deloitte Academy |
+| HashiCorp Terraform Associate | HashiCorp |
+| CKA — Certified Kubernetes Administrator | CNCF | In progress |
+| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | In progress |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="profile/stats.svg" height="165"/>
