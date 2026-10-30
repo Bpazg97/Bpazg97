@@ -91,7 +91,7 @@ I write automation tooling in Go and Python and work GitOps-first.
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - 🇪🇸    Spanish — Native
 - cat   Catalan — Native
